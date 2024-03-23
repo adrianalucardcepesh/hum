@@ -1,6 +1,6 @@
 
 const dbConfig = {
-    host: '127.0.0.1',
+    host: '95.164.21.161',
     database: 'smtp_admin_hum',
     user: 'smtp_admin_hum',
     password: ')ffOX$oTY9a*}p]s',
